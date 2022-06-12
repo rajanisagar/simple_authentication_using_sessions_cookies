@@ -1,0 +1,23 @@
+{
+  "name": "simple_authentication_using_sessions_cookies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rajanisagar/simple_authentication_using_sessions_cookies.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rajanisagar/simple_authentication_using_sessions_cookies/issues"
+  },
+  "homepage": "https://github.com/rajanisagar/simple_authentication_using_sessions_cookies#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16"
+  }
+}
